@@ -1,0 +1,501 @@
+ProductID,ProductName,Category,SubCategory,UnitPrice
+P20001,Product_1,Furniture,Chair,9570.82
+P20002,Product_2,Accessories,Phone,9369.69
+P20003,Product_3,Office Supplies,Storage,54168.59
+P20004,Product_4,Electronics,Headset,14028.71
+P20005,Product_5,Furniture,Laptop,24830.4
+P20006,Product_6,Electronics,Phone,36694.74
+P20007,Product_7,Appliances,Headset,2149.94
+P20008,Product_8,Office Supplies,Headset,18886.78
+P20009,Product_9,Electronics,Kitchen,30769.35
+P20010,Product_10,Accessories,Other,21188.83
+P20011,Product_11,Office Supplies,Printer,10486.86
+P20012,Product_12,Accessories,Laptop,54682.52
+P20013,Product_13,Electronics,Monitor,61042.13
+P20014,Product_14,Office Supplies,Desk,19533.68
+P20015,Product_15,Accessories,Printer,58149.14
+P20016,Product_16,Appliances,Kitchen,29100.85
+P20017,Product_17,Appliances,Laptop,38149.43
+P20018,Product_18,Electronics,Chair,64243.28
+P20019,Product_19,Office Supplies,Printer,56321.54
+P20020,Product_20,Furniture,Chair,60442.23
+P20021,Product_21,electronics,Desk,10522.33
+P20022,Product_22,Appliances,Chair,5508.04
+P20023,Product_23,Accessories,Desk,67037.33
+P20024,Product_24,Furniture,Laptop,29271.22
+P20025,Product_25,Electronics,Storage,21804.61
+P20026,Product_26,Furniture,Desk,54434.81
+P20027,Product_27,Electronics,Headset,62780.25
+P20028,Product_28,Furniture,Monitor,64727.97
+P20029,Product_29,Electronics,Monitor,23904.99
+P20030,Product_30,Electronics,Phone,63960.27
+P20031,Product_31,Furniture,Monitor,3357.77
+P20032,Product_32,Furniture,Phone,4009.71
+P20033,Product_33,Electronics,Monitor,46876.88
+P20034,Product_34,Appliances,Desk,5014.05
+P20035,Product_35,Furniture,Headset,24548.3
+P20036,Product_36,Office Supplies,Storage,50554.87
+P20037,Product_37,Accessories,Chair,25493.84
+P20038,Product_38,Electronics,Kitchen,13716.1
+P20039,Product_39,Electronics,Monitor,21316.89
+P20040,Product_40,Accessories,Storage,34480.88
+P20041,Product_41,Appliances,Storage,35811.32
+P20042,Product_42,Accessories,Desk,58790.12
+P20043,Product_43,Furniture,Laptop,56336.45
+P20044,Product_44,Accessories,Laptop,34424.29
+P20045,Product_45,Electronics,Monitor,63471.35
+P20046,Product_46,Accessories,Kitchen,8833.51
+P20047,Product_47,Office Supplies,Monitor,19374.9
+P20048,Product_48,Furniture,Monitor,62149.84
+P20049,Product_49,Accessories,Phone,28536.15
+P20050,Product_50,Electronics,Headset,73594.26
+P20051,Product_51,Furniture,Headset,35129.12
+P20052,Product_52,Electronics,Kitchen,59457.59
+P20053,Product_53,Appliances,Phone,30352.34
+P20054,Product_54,Office Supplies,Storage,32044.03
+P20055,Product_55,Appliances,Phone,28901.37
+P20056,Product_56,Office Supplies,Monitor,54014.95
+P20057,Product_57,Accessories,Laptop,41199.59
+P20058,Product_58,Furniture,Printer,70800.22
+P20059,Product_59,Accessories,Kitchen,19041.51
+P20060,Product_60,Office Supplies,Storage,7812.04
+P20061,Product_61,Office Supplies,Desk,29676.63
+P20062,Product_62,Office Supplies,Printer,46368.44
+P20063,Product_63,Electronics,Printer,64601.68
+P20064,Product_64,Furniture,Phone,26160.91
+P20065,Product_65,Accessories,Chair,49137.87
+P20066,Product_66,Accessories,Printer,26459.84
+P20067,Product_67,Appliances,Monitor,46406.3
+P20068,Product_68,Office Supplies,Other,66395.15
+P20069,Product_69,Office Supplies,Laptop,17582.42
+P20070,Product_70,Office Supplies,Laptop,30496.85
+P20071,Product_71,Accessories,Other,74496.91
+P20072,Product_72,Appliances,Headset,65181.21
+P20073,Product_73,Electronics,Monitor,42478.6
+P20074,Product_74,Furniture,Desk,38892.08
+P20075,Product_75,Electronics,Printer,21559.65
+P20076,Product_76,Accessories,Headset,38935.54
+P20077,Product_77,Office Supplies,Monitor,63659.16
+P20078,Product_78,Furniture,Phone,51482.54
+P20079,Product_79,Accessories,Laptop,21966.29
+P20080,Product_80,Accessories,Headset,15349.35
+P20081,Product_81,Accessories,Kitchen,20111.08
+P20082,Product_82,Furniture,Printer,12981.01
+P20083,Product_83,Furniture,Printer,7444.36
+P20084,Product_84,Appliances,Desk,31609.47
+P20085,Product_85,Appliances,Chair,8763.48
+P20086,Product_86,Electronics,Kitchen,13141.87
+P20087,Product_87,Furniture,Printer,41185.15
+P20088,Product_88,Furniture,Storage,12595.57
+P20089,Product_89,Furniture,Kitchen,5071.82
+P20090,Product_90,Appliances,Printer,24008.95
+P20091,Product_91,Accessories,Other,16757.84
+P20092,Product_92,Office Supplies,Kitchen,38793.3
+P20093,Product_93,Appliances,Monitor,7946.82
+P20094,Product_94,Furniture,Kitchen,56457.28
+P20095,Product_95,Appliances,Desk,67995.64
+P20096,Product_96,Electronics,Phone,55834.61
+P20097,Product_97,Furniture,Phone,40102.18
+P20098,Product_98,Electronics,Phone,64591.89
+P20099,Product_99,Furniture,Monitor,52210.4
+P20100,Product_100,Appliances,Headset,1088.17
+P20101,Product_101,Accessories,Phone,29738.53
+P20102,Product_102,Office Supplies,Laptop,63866.11
+P20103,Product_103,Electronics,Monitor,26135.66
+P20104,Product_104,Appliances,Headset,2930.57
+P20105,Product_105,Accessories,Laptop,56039.62
+P20106,Product_106,Appliances,Laptop,60212.26
+P20107,Product_107,Electronics,Laptop,12296.35
+P20108,Product_108,Office Supplies,Storage,40439.34
+P20109,Product_109,Appliances,Desk,14639.07
+P20110,Product_110,Furniture,Desk,54026.81
+P20111,Product_111,Accessories,Monitor,20584.82
+P20112,Product_112,Appliances,Laptop,23921.27
+P20113,Product_113,Accessories,Other,63419.32
+P20114,Product_114,Furniture,Kitchen,35881.28
+P20115,Product_115,Office Supplies,Headset,50330.66
+P20116,Product_116,Office Supplies,Desk,30357.27
+P20117,Product_117,Furniture,Phone,22561.11
+P20118,Product_118,Accessories,Monitor,47023.21
+P20119,Product_119,Appliances,Headset,11867.86
+P20120,Product_120,Furniture,Monitor,28163.09
+P20121,Product_121,Electronics,Other,15915.07
+P20122,Product_122,Accessories,Storage,52275.88
+P20123,Product_123,Office Supplies,Storage,70832.4
+P20124,Product_124,Furniture,Laptop,74664.67
+P20125,Product_125,Office Supplies,Storage,33935.68
+P20126,Product_126,Accessories,Monitor,19164.02
+P20127,Product_127,Office Supplies,Phone,33379.35
+P20128,Product_128,Furniture,Laptop,63591.02
+P20129,Product_129,Accessories,Printer,15688.62
+P20130,Product_130,Electronics,Headset,71421.55
+P20131,Product_131,Furniture,Other,25837.37
+P20132,Product_132,Appliances,Laptop,73939.53
+P20133,Product_133,Furniture,Monitor,62944.08
+P20134,Product_134,Accessories,Headset,60700.22
+P20135,Product_135,Furniture,Phone,24047.48
+P20136,Product_136,Electronics,Chair,955.66
+P20137,Product_137,Electronics,Other,28845.33
+P20138,Product_138,Appliances,Monitor,22845.16
+P20139,Product_139,Office Supplies,Other,3093.56
+P20140,Product_140,Accessories,Desk,38050.78
+P20141,Product_141,Accessories,Chair,30406.44
+P20142,Product_142,Office Supplies,Headset,47701.37
+P20143,Product_143,Electronics,Storage,46702.62
+P20144,Product_144,Electronics,Monitor,9319.77
+P20145,Product_145,Furniture,Other,73279.33
+P20146,Product_146,Appliances,Headset,14263.78
+P20147,Product_147,Appliances,Storage,33561.97
+P20148,Product_148,Appliances,Phone,36762.38
+P20149,Product_149,Furniture,Phone,61035.79
+P20150,Product_150,Appliances,Other,7712.45
+P20151,Product_151,Office Supplies,Laptop,32319.73
+P20152,Product_152,Furniture,Desk,47249.11
+P20153,Product_153,Office Supplies,Laptop,16372.12
+P20154,Product_154,Furniture,Desk,47171.85
+P20155,Product_155,Appliances,Monitor,69297.76
+P20156,Product_156,Office Supplies,Printer,74814.6
+P20157,Product_157,Office Supplies,Other,2724.1
+P20158,Product_158,Office Supplies,Kitchen,17898.44
+P20159,Product_159,Furniture,Other,23479.94
+P20160,Product_160,Accessories,Chair,30114.72
+P20161,Product_161,Appliances,Storage,18396.61
+P20162,Product_162,Office Supplies,Chair,15500.55
+P20163,Product_163,Accessories,Phone,71605.17
+P20164,Product_164,Appliances,Desk,68913.56
+P20165,Product_165,Appliances,Storage,3810.34
+P20166,Product_166,Office Supplies,Phone,25609.33
+P20167,Product_167,Office Supplies,Storage,30564.6
+P20168,Product_168,Furniture,Laptop,18154.39
+P20169,Product_169,Accessories,Phone,47276.81
+P20170,Product_170,Accessories,Laptop,48136.44
+P20171,Product_171,Office Supplies,Laptop,63832.67
+P20172,Product_172,Appliances,Storage,55642.93
+P20173,Product_173,Office Supplies,Headset,40830.23
+P20174,Product_174,Appliances,Chair,49122.93
+P20175,Product_175,Appliances,Phone,20766.96
+P20176,Product_176,Office Supplies,Kitchen,44601.3
+P20177,Product_177,Electronics,Headset,36845.28
+P20178,Product_178,Accessories,Chair,10260.83
+P20179,Product_179,Appliances,Phone,18418.06
+P20180,Product_180,Appliances,Desk,22089.5
+P20181,Product_181,Electronics,Chair,69345.92
+P20182,Product_182,Furniture,Kitchen,17509.88
+P20183,Product_183,Electronics,Other,21906.52
+P20184,Product_184,Electronics,Monitor,27890.75
+P20185,Product_185,Appliances,Laptop,49881.58
+P20186,Product_186,Accessories,Monitor,9132.41
+P20187,Product_187,Electronics,Headset,71559.71
+P20188,Product_188,Furniture,Other,64958.17
+P20189,Product_189,Office Supplies,Laptop,43418.04
+P20190,Product_190,Electronics,Phone,50650.63
+P20191,Product_191,Electronics,Headset,1544.54
+P20192,Product_192,Furniture,Kitchen,25619.17
+P20193,Product_193,Accessories,Storage,59735.82
+P20194,Product_194,Electronics,Phone,6087.98
+P20195,Product_195,Electronics,Chair,21388.84
+P20196,Product_196,Accessories,Storage,44021.67
+P20197,Product_197,Furniture,Headset,19454.05
+P20198,Product_198,Electronics,Chair,70068.15
+P20199,Product_199,Accessories,Kitchen,10090.08
+P20200,Product_200,Electronics,Monitor,59865.36
+P20201,Product_201,Office Supplies,Chair,38243.77
+P20202,Product_202,Appliances,Monitor,56349.71
+P20203,Product_203,Office Supplies,Laptop,23510.44
+P20204,Product_204,Electronics,Desk,38732.37
+P20205,Product_205,Furniture,Printer,64305.6
+P20206,Product_206,Appliances,Phone,35175.79
+P20207,Product_207,Office Supplies,Printer,27171.07
+P20208,Product_208,Accessories,Laptop,40350.81
+P20209,Product_209,Furniture,Chair,53887.0
+P20210,Product_210,Office Supplies,Laptop,33434.18
+P20211,Product_211,Accessories,Printer,70434.11
+P20212,Product_212,Electronics,Printer,22332.45
+P20213,Product_213,Accessories,Phone,35817.13
+P20214,Product_214,Office Supplies,Storage,56842.5
+P20215,Product_215,Office Supplies,Other,51777.35
+P20216,Product_216,Electronics,Laptop,64813.99
+P20217,Product_217,Accessories,Desk,74761.65
+P20218,Product_218,Accessories,Other,32186.32
+P20219,Product_219,Electronics,Laptop,8602.97
+P20220,Product_220,Accessories,Kitchen,2572.07
+P20221,Product_221,Electronics,Headset,54597.7
+P20222,Product_222,Furniture,Headset,65588.82
+P20223,Product_223,Office Supplies,Printer,16787.23
+P20224,Product_224,Furniture,Headset,12136.07
+P20225,Product_225,Appliances,Monitor,4946.72
+P20226,Product_226,Appliances,Desk,61755.91
+P20227,Product_227,Appliances,Headset,23560.23
+P20228,Product_228,Electronics,Chair,30306.76
+P20229,Product_229,Accessories,Monitor,37855.44
+P20230,Product_230,Furniture,Other,63007.16
+P20231,Product_231,Furniture,Monitor,48917.24
+P20232,Product_232,Furniture,Laptop,46245.33
+P20233,Product_233,Furniture,Printer,13422.71
+P20234,Product_234,Appliances,Phone,38635.28
+P20235,Product_235,Furniture,Phone,53738.96
+P20236,Product_236,Accessories,Kitchen,73002.59
+P20237,Product_237,Appliances,Desk,15345.05
+P20238,Product_238,Furniture,Laptop,1012.89
+P20239,Product_239,Electronics,Phone,5925.02
+P20240,Product_240,Office Supplies,Printer,28376.18
+P20241,Product_241,Office Supplies,Other,61594.69
+P20242,Product_242,Office Supplies,Phone,833.51
+P20243,Product_243,Appliances,Chair,34417.78
+P20244,Product_244,Furniture,Monitor,24893.53
+P20245,Product_245,Appliances,Phone,4220.38
+P20246,Product_246,Accessories,Laptop,33932.65
+P20247,Product_247,Electronics,Headset,19329.73
+P20248,Product_248,Electronics,Headset,26585.8
+P20249,Product_249,Office Supplies,Other,53009.46
+P20250,Product_250,Office Supplies,Headset,39259.86
+P20251,Product_251,Office Supplies,Other,9611.16
+P20252,Product_252,Furniture,Laptop,72117.67
+P20253,Product_253,Accessories,Desk,47802.53
+P20254,Product_254,Accessories,Headset,57510.37
+P20255,Product_255,Accessories,Kitchen,6217.22
+P20256,Product_256,Accessories,Printer,3815.26
+P20257,Product_257,Office Supplies,Monitor,1752.77
+P20258,Product_258,Electronics,Headset,14402.91
+P20259,Product_259,Office Supplies,Other,31256.31
+P20260,Product_260,Accessories,Laptop,70206.21
+P20261,Product_261,Office Supplies,Headset,34442.36
+P20262,Product_262,Accessories,Phone,21982.06
+P20263,Product_263,Appliances,Headset,42276.56
+P20264,Product_264,Electronics,Other,8661.51
+P20265,Product_265,Appliances,Chair,45830.09
+P20266,Product_266,Furniture,Chair,42761.87
+P20267,Product_267,Office Supplies,Headset,59461.88
+P20268,Product_268,Furniture,Monitor,74005.56
+P20269,Product_269,Office Supplies,Laptop,19040.25
+P20270,Product_270,Appliances,Kitchen,38371.34
+P20271,Product_271,Accessories,Kitchen,68192.25
+P20272,Product_272,Accessories,Headset,58953.68
+P20273,Product_273,Office Supplies,Headset,36709.25
+P20274,Product_274,Accessories,Chair,70919.26
+P20275,Product_275,Appliances,Other,4575.58
+P20276,Product_276,Accessories,Monitor,69845.6
+P20277,Product_277,Appliances,Headset,4072.9
+P20278,Product_278,Furniture,Kitchen,41183.66
+P20279,Product_279,Appliances,Laptop,66815.94
+P20280,Product_280,Electronics,Desk,19925.25
+P20281,Product_281,Electronics,Phone,35576.96
+P20282,Product_282,Electronics,Headset,24527.37
+P20283,Product_283,Office Supplies,Other,71425.15
+P20284,Product_284,Office Supplies,Headset,61826.33
+P20285,Product_285,Office Supplies,Other,53262.41
+P20286,Product_286,Appliances,Monitor,44195.74
+P20287,Product_287,Office Supplies,Desk,61598.21
+P20288,Product_288,Furniture,Printer,29602.35
+P20289,Product_289,Electronics,Laptop,33732.12
+P20290,Product_290,Appliances,Laptop,54831.13
+P20291,Product_291,Electronics,Other,27024.28
+P20292,Product_292,Office Supplies,Chair,5073.4
+P20293,Product_293,Appliances,Other,5852.8
+P20294,Product_294,Accessories,Chair,8917.6
+P20295,Product_295,Furniture,Storage,65265.19
+P20296,Product_296,Office Supplies,Kitchen,35575.31
+P20297,Product_297,Office Supplies,Laptop,53552.31
+P20298,Product_298,Furniture,Monitor,29650.33
+P20299,Product_299,Furniture,Other,19625.71
+P20300,Product_300,Accessories,Monitor,26235.25
+P20301,Product_301,Office Supplies,Desk,59625.42
+P20302,Product_302,Office Supplies,Monitor,47003.64
+P20303,Product_303,Electronics,Headset,70341.69
+P20304,Product_304,Appliances,Kitchen,51073.95
+P20305,Product_305,Appliances,Headset,42892.57
+P20306,Product_306,Electronics,Phone,45881.64
+P20307,Product_307,Appliances,Other,70695.15
+P20308,Product_308,Furniture,Laptop,59178.61
+P20309,Product_309,Appliances,Other,2095.88
+P20310,Product_310,Appliances,Kitchen,40200.24
+P20311,Product_311,Electronics,Printer,51718.88
+P20312,Product_312,Accessories,Printer,56227.78
+P20313,Product_313,Appliances,Phone,16221.72
+P20314,Product_314,Appliances,Kitchen,65078.15
+P20315,Product_315,Accessories,Storage,71701.48
+P20316,Product_316,Electronics,Storage,17982.63
+P20317,Product_317,Accessories,Storage,66231.37
+P20318,Product_318,Electronics,Laptop,7544.31
+P20319,Product_319,Furniture,Laptop,4461.3
+P20320,Product_320,Electronics,Storage,9953.02
+P20321,Product_321,Furniture,Printer,4613.26
+P20322,Product_322,Furniture,Kitchen,63422.41
+P20323,Product_323,Electronics,Monitor,4711.05
+P20324,Product_324,Office Supplies,Kitchen,20593.32
+P20325,Product_325,Electronics,Storage,8050.6
+P20326,Product_326,Appliances,Kitchen,22368.03
+P20327,Product_327,Appliances,Desk,7064.79
+P20328,Product_328,Office Supplies,Laptop,50199.84
+P20329,Product_329,Furniture,Laptop,10259.51
+P20330,Product_330,Office Supplies,Printer,63932.89
+P20331,Product_331,Appliances,Monitor,61344.17
+P20332,Product_332,Office Supplies,Storage,1320.53
+P20333,Product_333,Electronics,Other,67210.76
+P20334,Product_334,Office Supplies,Printer,2462.14
+P20335,Product_335,Furniture,Printer,18201.54
+P20336,Product_336,Electronics,Monitor,2719.47
+P20337,Product_337,Accessories,Headset,25387.51
+P20338,Product_338,Appliances,Storage,38685.83
+P20339,Product_339,Appliances,Other,59809.37
+P20340,Product_340,Office Supplies,Laptop,25547.22
+P20341,Product_341,Electronics,Monitor,53000.1
+P20342,Product_342,Accessories,Other,14306.58
+P20343,Product_343,Electronics,Desk,56369.7
+P20344,Product_344,Appliances,Printer,17928.95
+P20345,Product_345,Electronics,Monitor,11022.79
+P20346,Product_346,Accessories,Laptop,14150.04
+P20347,Product_347,Office Supplies,Kitchen,13900.12
+P20348,Product_348,Furniture,Laptop,38610.86
+P20349,Product_349,Electronics,Desk,63406.38
+P20350,Product_350,Furniture,Monitor,6246.5
+P20351,Product_351,Appliances,Desk,53109.64
+P20352,Product_352,Office Supplies,Storage,49179.68
+P20353,Product_353,Office Supplies,Storage,65477.24
+P20354,Product_354,Electronics,Kitchen,18537.82
+P20355,Product_355,Office Supplies,Printer,33923.21
+P20356,Product_356,Electronics,Headset,69459.3
+P20357,Product_357,Electronics,Chair,49601.51
+P20358,Product_358,Furniture,Other,29341.0
+P20359,Product_359,Office Supplies,Desk,10116.5
+P20360,Product_360,Electronics,Other,19907.63
+P20361,Product_361,Furniture,Kitchen,43716.8
+P20362,Product_362,Accessories,Other,53947.15
+P20363,Product_363,Furniture,Other,9594.31
+P20364,Product_364,Furniture,Laptop,45089.92
+P20365,Product_365,Electronics,Monitor,41411.24
+P20366,Product_366,Appliances,Printer,38692.47
+P20367,Product_367,Appliances,Chair,51852.2
+P20368,Product_368,Appliances,Monitor,62857.48
+P20369,Product_369,Furniture,Laptop,24427.33
+P20370,Product_370,Electronics,Other,66709.21
+P20371,Product_371,Office Supplies,Chair,12299.33
+P20372,Product_372,Furniture,Laptop,13224.88
+P20373,Product_373,Furniture,Laptop,20227.87
+P20374,Product_374,Electronics,Laptop,9228.96
+P20375,Product_375,Accessories,Storage,17504.85
+P20376,Product_376,Furniture,Chair,8248.96
+P20377,Product_377,Accessories,Laptop,61684.91
+P20378,Product_378,Accessories,Headset,10680.98
+P20379,Product_379,Appliances,Other,56123.13
+P20380,Product_380,Electronics,Chair,3879.17
+P20381,Product_381,Accessories,Storage,71154.47
+P20382,Product_382,Electronics,Desk,53423.66
+P20383,Product_383,Appliances,Desk,807.7
+P20384,Product_384,Electronics,Printer,57360.08
+P20385,Product_385,Furniture,Phone,38701.92
+P20386,Product_386,Accessories,Headset,58518.58
+P20387,Product_387,Electronics,Desk,39330.51
+P20388,Product_388,Office Supplies,Storage,48184.56
+P20389,Product_389,Electronics,Phone,59038.97
+P20390,Product_390,Accessories,Laptop,30561.57
+P20391,Product_391,Appliances,Laptop,502.3
+P20392,Product_392,Appliances,Kitchen,63791.0
+P20393,Product_393,Accessories,Other,28752.51
+P20394,Product_394,Furniture,Phone,37354.39
+P20395,Product_395,Furniture,Other,880.17
+P20396,Product_396,Appliances,Storage,37059.27
+P20397,Product_397,Appliances,Headset,73990.61
+P20398,Product_398,Accessories,Phone,21086.59
+P20399,Product_399,Furniture,Desk,29837.74
+P20400,Product_400,Appliances,Headset,51633.09
+P20401,Product_401,Furniture,Kitchen,61165.09
+P20402,Product_402,Appliances,Other,31479.15
+P20403,Product_403,Electronics,Other,23432.26
+P20404,Product_404,Office Supplies,Headset,70355.59
+P20405,Product_405,Electronics,Laptop,50882.73
+P20406,Product_406,Appliances,Other,9190.89
+P20407,Product_407,Office Supplies,Kitchen,5448.91
+P20408,Product_408,Office Supplies,Desk,36421.17
+P20409,Product_409,Appliances,Chair,16740.73
+P20410,Product_410,Appliances,Desk,19272.66
+P20411,Product_411,Furniture,Desk,65863.61
+P20412,Product_412,Appliances,Other,6990.58
+P20413,Product_413,Accessories,Monitor,53737.7
+P20414,Product_414,Appliances,Laptop,20554.33
+P20415,Product_415,Accessories,Other,57096.52
+P20416,Product_416,Appliances,Laptop,54264.13
+P20417,Product_417,Furniture,Storage,852.18
+P20418,Product_418,Accessories,Monitor,38332.42
+P20419,Product_419,Electronics,Other,10707.17
+P20420,Product_420,Accessories,Printer,65007.16
+P20421,Product_421,Furniture,Desk,65407.47
+P20422,Product_422,Accessories,Storage,31550.43
+P20423,Product_423,Appliances,Monitor,33496.35
+P20424,Product_424,Appliances,Other,22955.24
+P20425,Product_425,Furniture,Kitchen,53830.49
+P20426,Product_426,Office Supplies,Headset,27092.0
+P20427,Product_427,Appliances,Headset,20304.1
+P20428,Product_428,Electronics,Laptop,32587.66
+P20429,Product_429,Furniture,Monitor,7134.12
+P20430,Product_430,Accessories,Desk,56071.26
+P20431,Product_431,Accessories,Desk,1240.95
+P20432,Product_432,Electronics,Chair,48443.03
+P20433,Product_433,Appliances,Headset,13959.98
+P20434,Product_434,Furniture,Storage,17660.58
+P20435,Product_435,Electronics,Monitor,47781.71
+P20436,Product_436,Appliances,Desk,74472.88
+P20437,Product_437,Furniture,Chair,58395.5
+P20438,Product_438,Accessories,Monitor,17170.22
+P20439,Product_439,Furniture,Phone,13449.05
+P20440,Product_440,Office Supplies,Desk,65007.6
+P20441,Product_441,Furniture,Phone,33480.54
+P20442,Product_442,Office Supplies,Monitor,10537.84
+P20443,Product_443,Furniture,Desk,64707.19
+P20444,Product_444,Office Supplies,Phone,61262.1
+P20445,Product_445,Accessories,Printer,73797.81
+P20446,Product_446,Appliances,Chair,68257.85
+P20447,Product_447,Office Supplies,Storage,63928.74
+P20448,Product_448,Office Supplies,Headset,4227.31
+P20449,Product_449,Accessories,Chair,8099.83
+P20450,Product_450,Office Supplies,Phone,42803.04
+P20451,Product_451,Electronics,Desk,40001.5
+P20452,Product_452,Accessories,Printer,34509.85
+P20453,Product_453,Electronics,Printer,29940.16
+P20454,Product_454,Accessories,Headset,32511.42
+P20455,Product_455,Office Supplies,Printer,42826.56
+P20456,Product_456,Electronics,Chair,455.12
+P20457,Product_457,Office Supplies,Other,19774.95
+P20458,Product_458,Accessories,Printer,39015.5
+P20459,Product_459,Office Supplies,Headset,54249.54
+P20460,Product_460,Electronics,Printer,13309.5
+P20461,Product_461,Electronics,Printer,41152.02
+P20462,Product_462,Office Supplies,Kitchen,53670.14
+P20463,Product_463,Furniture,Chair,33513.69
+P20464,Product_464,Accessories,Phone,2322.96
+P20465,Product_465,Accessories,Laptop,33860.33
+P20466,Product_466,Office Supplies,Other,22444.43
+P20467,Product_467,Furniture,Printer,69744.83
+P20468,Product_468,Electronics,Storage,9608.62
+P20469,Product_469,Appliances,Printer,49039.95
+P20470,Product_470,Appliances,Kitchen,4238.17
+P20471,Product_471,Office Supplies,Phone,33628.93
+P20472,Product_472,Furniture,Storage,41682.27
+P20473,Product_473,Furniture,Other,22557.23
+P20474,Product_474,Accessories,Storage,34294.15
+P20475,Product_475,Electronics,Chair,12517.47
+P20476,Product_476,Furniture,Headset,23018.05
+P20477,Product_477,Appliances,Headset,46696.64
+P20478,Product_478,Electronics,Other,22844.46
+P20479,Product_479,Electronics,Phone,67510.81
+P20480,Product_480,Office Supplies,Headset,47242.0
+P20481,Product_481,Furniture,Monitor,33067.08
+P20482,Product_482,Office Supplies,Kitchen,3195.14
+P20483,Product_483,Furniture,Other,37616.26
+P20484,Product_484,Accessories,Other,57428.79
+P20485,Product_485,Office Supplies,Laptop,20137.15
+P20486,Product_486,Office Supplies,Laptop,60565.99
+P20487,Product_487,Appliances,Chair,19109.97
+P20488,Product_488,Office Supplies,Chair,61833.86
+P20489,Product_489,Furniture,Laptop,6669.55
+P20490,Product_490,Appliances,Headset,65003.92
+P20491,Product_491,Office Supplies,Desk,37589.23
+P20492,Product_492,Office Supplies,Other,22451.36
+P20493,Product_493,Accessories,Monitor,20103.96
+P20494,Product_494,Office Supplies,Other,32571.19
+P20495,Product_495,Electronics,Printer,74929.0
+P20496,Product_496,Appliances,Phone,16758.46
+P20497,Product_497,Electronics,Kitchen,8010.28
+P20498,Product_498,Appliances,Desk,44002.13
+P20499,Product_499,Accessories,Monitor,36794.12
+P20500,Product_500,Office Supplies,Printer,39457.46
