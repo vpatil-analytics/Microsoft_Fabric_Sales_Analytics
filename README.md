@@ -2,6 +2,9 @@ Microsoft Fabric Sales Analytics
 
 📊 Project Overview
 
+Sales Performance Dashboard
+Sales_Performance.png
+
 This project demonstrates an end-to-end Sales Analytics solution using Microsoft Fabric and Power BI.
 
 The project focuses on ingesting sales data into a Microsoft Fabric Lakehouse, querying and analyzing the data using SQL, and presenting business insights through an interactive Power BI dashboard.
