@@ -3,7 +3,8 @@ Microsoft Fabric Sales Analytics
 📊 Project Overview
 
 Sales Performance Dashboard
-Sales_Performance.png
+
+(Sales_Performance.png)
 
 This project demonstrates an end-to-end Sales Analytics solution using Microsoft Fabric and Power BI.
 
